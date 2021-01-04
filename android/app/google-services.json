@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861567679538",
+    "project_id": "ninja-brew-crew-c620c",
+    "storage_bucket": "ninja-brew-crew-c620c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861567679538:android:cf4d9c0d99a6f8e962102b",
+        "android_client_info": {
+          "package_name": "com.supriyaahir.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861567679538-p2a2eicbfvmf9jtn7hvoqp1lobrjcunr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNuRiT_0yr_4r7NcQLaKQfEn7DgguJj4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861567679538-p2a2eicbfvmf9jtn7hvoqp1lobrjcunr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
